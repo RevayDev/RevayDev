@@ -20,9 +20,12 @@ Con el tiempo he aprendido varias tecnologías. Algunas las domino más, otras a
 ![My Skill](https://skillicons.dev/icons?i=js)
 ![My Skill](https://skillicons.dev/icons?i=java)
 ![My Skill](https://skillicons.dev/icons?i=py)
+![My Skill](https://skillicons.dev/icons?i=dart)
+![My Skill](https://skillicons.dev/icons?i=ts)
 
 ## Frameworks & Librerías
 ![My Skill](https://skillicons.dev/icons?i=react)
+![My Skill](https://skillicons.dev/icons?i=sass)
 ![My Skill](https://skillicons.dev/icons?i=vite)
 ![My Skill](https://skillicons.dev/icons?i=nodejs)
 ![My Skill](https://skillicons.dev/icons?i=express)
@@ -30,10 +33,13 @@ Con el tiempo he aprendido varias tecnologías. Algunas las domino más, otras a
 ## Bases de datos
 ![My Skill](https://skillicons.dev/icons?i=mongo)
 ![My Skill](https://skillicons.dev/icons?i=mysql)
+![My Skill](https://skillicons.dev/icons?i=postgres)
 
 ## Herramientas & Editores
+![My Skill](https://skillicons.dev/icons?i=arch)
 ![My Skill](https://skillicons.dev/icons?i=vscode) 
 ![My Skill](https://skillicons.dev/icons?i=eclipse) 
+![My Skill](https://skillicons.dev/icons?i=github)
 ![My Skill](https://skillicons.dev/icons?i=git) 
 ![My Skill](https://skillicons.dev/icons?i=postman)
 
